@@ -1,0 +1,17 @@
+/* ===== Scrollbar CSS ===== */
+
+*::-webkit-scrollbar {
+    width: 12px;
+  }
+
+  *::-webkit-scrollbar-track {
+    background: #f1e9e9;
+    border:2px solid #212121;
+    border-radius: 5px;
+  }
+
+  *::-webkit-scrollbar-thumb {
+    background-color: #DC143C;
+    border-radius: 10px;
+    border: 2px solid #212121;
+  }
